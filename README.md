@@ -1,4 +1,4 @@
-DVLD - Driving and Vehicle Licensing Department System
+Fullstack desktop Application (DVLD - Driving and Vehicle Licensing Department System)
 
 Project Overview
 
